@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## My name is Pramukh Jain 😄
+## I am 4th year UG at IIT Delhi 🏫 in ECE 🔌
 <!--
 **BoredApe07/BoredApe07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
